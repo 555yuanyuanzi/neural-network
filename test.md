@@ -1,7 +1,3 @@
 *我的图片是*
 
-
-
-
-
-![bizhi.png](C:\MarkDown\images\bizhi.png)
+[壁纸图片](img/bizhi.png)
