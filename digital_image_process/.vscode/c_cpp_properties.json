@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "win",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files/opencv/build/x64/cv/install/include",
+                "C:/Program Files/opencv/build/x64/cv/install/include/opencv2"
+            ],
+            "defines": [],
+            "compilerPath": "C:/Program Files/mingw64/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
