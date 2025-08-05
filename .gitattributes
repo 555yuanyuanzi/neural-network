@@ -1,2 +1,2 @@
-img/  description="图像处理素材库"
-machine_Learning/  description="机器学习算法实现"
+./img/  description="图像处理素材库"
+./machine_Learning/  description="机器学习算法实现"
