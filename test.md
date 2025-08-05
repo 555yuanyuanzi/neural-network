@@ -1,3 +1,3 @@
 *我的图片是*
 
-[壁纸图片](img/bizhi.png)
+<img src="img/bizhi.png" title="" alt="壁纸图片" width="360">
